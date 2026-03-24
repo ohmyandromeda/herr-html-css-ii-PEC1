@@ -10,6 +10,8 @@
  * Write any other JavaScript below
  */
 
+const { animate } = require('animejs');
+
 +(function () {
   const university = "UOC";
   console.log(`Hello, ${university}!`);
